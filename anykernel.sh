@@ -11,7 +11,7 @@ do.cleanup=1
 do.cleanuponabort=1
 device.name1=raphael
 device.name2=raphaelin
-supported.versions=raphael_eea
+supported.versions=
 supported.patchlevels=
 '; } # end properties
 
